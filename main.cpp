@@ -1,7 +1,9 @@
-#include <iostream>
+
+//
+// Created by borko on 5/27/2024.
+//
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
