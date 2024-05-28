@@ -23,8 +23,8 @@
 4. Iterator Pattern
 5. Mediator Pattern
 6. Memento Pattern
-7. Observer Pattern
+7. Observer Pattern **Done**
 8. State Pattern
-9. Strategy Pattern (Done)
+9. Strategy Pattern **Done**
 10. Template Method Pattern
 11. Visitor Pattern
